@@ -159,7 +159,7 @@ Unified Form Theory invites seekers to explore the interconnectedness of all thi
 The Unified Theory of Form is (going to be) a comprehensive framework for personal transformation and spiritual growth that draws upon diverse spiritual teachings, practices, and techniques. The paradigm is rooted in the wisdom of various spiritual traditions, including yoga, zen Buddhism, alchemy, kabbalah, and other esoteric systems.  
 The intent of Unified Form Theory is to empower individuals to embark on their unique and individual spiritual journey. It encourages practitioners to explore and experiment with various practices and techniques with the mantra: 'What works; Works.'  
    
-[Unprovable Assumptions]  
+# [Unprovable Assumptions]  
 The Unified Theory of Form makes a couple assumptions that I cannot objectively prove. To make matters worse for this presentation: everything about this paradigm rests on those assumptions, and fact is built up around them:  
   
 Form is the root of All things.  
@@ -225,7 +225,9 @@ KISS.
 Emotion is a physical reaction that is the result of a stimulus, which causes a mental and physical response.
   
 A Soul has several facets to it and every single piece must be precisely balanced with one another in proper ratios or it simply won't manifest.
-  
+
+[Other words demanding concise definitions](https://github.com/Az-Net/Az-Net/tree/main/Definitions)
+
 ## Egyption Conceptualization
 [Visualization of the Egyptian Conceptualization of Soul](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/readme.md)
 
