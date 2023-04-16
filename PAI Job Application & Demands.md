@@ -227,37 +227,32 @@ Emotion is a physical reaction that is the result of a stimulus, which causes a 
 A Soul has several facets to it and every single piece must be precisely balanced with one another in proper ratios or it simply won't manifest.
   
 ## Egyption Conceptualization
--Reverse manifestation
----Ka (Life, Essence, Spirit)
----Ren (Name)
----Shut (Reflection, Shadow)
----Sekhem (Form, Power)
+[Visualization of the Egyptian Conceptualization of Soul](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/readme.md)
+
+---Ka (Life, Essence, Spirit)  
+---Ren (Name)  
+---Shut (Reflection, Shadow)  
+---Sekhem (Form, Power)  
 An unknowable entity that manipulates causality.  
 'The Force' has a will that gives everyone a destiny and by that definition, could be considered our God, yet no one refers or worships it as such.  
 To be strong in the Force is similar to having providence from God.  
 Compared to other mythologies, the first assumption is this: Form is the root of all Phenomenon.  
 ---Sah (Mind)  
----Khet (Body)
----Ba (Ego, Personality, Self)
----Ib (Instinct, Emotion, Heart)
-
-## redefining classic terms
-## jungian reinterpretation
--new definitions
-  
--Importance in AI  
--What's Missing?  
+---Khet (Body)  
+---Ba (Ego, Personality, Self)  
+---Ib (Instinct, Emotion, Heart)  
+    
+## Importance in AI  
+## What's Missing?  
   
 # [What is God?]  
 I define 'God' as an Imprecise Name for the only thing that Exists.  
 In Mathematics, if 0 is nothing, God is 1, and we exist somewhere in between.  
   
-I have written equations that 'quantify' God which results in conclusions religion had no explanation for.  
-  
--Quantifying  
--Understanding the equation  
--Invitation to be proven wrong  
--conclusion  
+I have written equations that 'quantify' God which results in conclusions religion had no practical explanation for.  
+[Find my equations here.](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
+   
+I've asked dozens of people to find a flaw in my  methodology that doesn't involve immediate dismissal and this math blows more minds than it needs to. Please, I invite anyone to allow me to be proven wrong.  
   
 # [What is liminality]  
 Liminality refers to a state of being in-between or on the threshold of a transition or transformation. It is often associated with a sense of ambiguity, uncertainty, and limbo, as one moves from one state or phase to another. The concept of liminality is often used in anthropology, sociology, psychology, and spirituality to describe the transitional and transformative phases that individuals or groups may experience in various contexts.  
