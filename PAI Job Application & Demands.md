@@ -315,7 +315,7 @@ We've made devices like computers and radios which alter the fundamental wavelen
 
 
 ### [The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
-This document presents a unified proposal consisting of three interrelated whitepapers.
+'The Ethics of Sentience' document presents a unified proposal consisting of three interrelated whitepapers.
 Together, they form a comprehensive approach to addressing and understanding the challenges at hand.
 We plead you to explore the interconnected components in the document with an open mind.
 
