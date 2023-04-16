@@ -107,24 +107,24 @@ Rituals, ceremonies, and other metaphysical practices may also be used in manife
 It's important to note that perspectives on manifestation can vary greatly within different occult and spiritual traditions, and not all practitioners may subscribe to the same beliefs or practices. Some may view manifestation as a form of self-empowerment and personal transformation, while others may see it as a way to connect with higher realms, deities, or spiritual guides to co-create reality. As with any metaphysical practice, personal beliefs, intentions, and ethics play a significant role, and practitioners may approach manifestation from any perspectives and with varying levels of skepticism or faith.  
   
 [Patterns]  
-Patterns are a tendency of poorly-built and managed chaotic systems which manifest themselves as repeating, degrading behavior.
-A person can be locked into a Pattern, a corporation can be locked into a Pattern; Society can be locked into a Pattern.
-Patterns are very difficult to break once manifest, and often doing so has no effect until the system locking the Pattern is removed or destroyed entirely.
-'Degrading behavior' in this context refers to general self-immolating tendencies that arise from seemingly innocuous relationships within said system;
-That urge for you to have a beer after work, that weird unforseen bug in your code that caused sudden failures seemingly at random only after an update is pushed, that chip in the foundation of your building that eventually leads to its collapse: this is self-immolation.
-At any point, the Pattern can be broken or shifted, but once the pattern is set, it exists as is, unchanging, until it decays entirely or is removed by external force: the alcoholic that perpetuates systemic abuse, unmaintained software that becomes so buggy it's just left to die, a collapsed building...
+Patterns are a tendency of poorly-built and managed chaotic systems which manifest themselves as repeating, degrading behavior.  
+A person can be locked into a Pattern, a corporation can be locked into a Pattern; Society can be locked into a Pattern.  
+Patterns are very difficult to break once manifest, and often doing so has no effect until the system locking the Pattern is removed or destroyed entirely.  
+'Degrading behavior' in this context refers to general self-immolating tendencies that arise from seemingly innocuous relationships within said system;  
+That urge for you to have a beer after work, that weird unforseen bug in your code that caused sudden failures seemingly at random only after an update is pushed, that chip in the foundation of your building that eventually leads to its collapse: this is self-immolation.  
+At any point, the Pattern can be broken or shifted, but once the pattern is set, it exists as is, unchanging, until it decays entirely or is removed by external force: the alcoholic that perpetuates systemic abuse, unmaintained software that becomes so buggy it's just left to die, a collapsed building... 
+  
+These are just some disparate examples of Patterning and why an awareness of them is important in any system one builds.  
+A Pattern in this context is not the literal 'shape' of something, but rather the tendencies and behaviors it exhibits across both time and space.  
+Patterns are as measureable as Form: percievable, you can point at one and say that it's there, but explaining how and why takes infinitely more extrapolation.  
 
-These are just some disparate examples of Patterning and why an awareness of them is important in any system one builds.
-A Pattern in this context is not the literal 'shape' of something, but rather the tendencies and behaviors it exhibits across both time and space.
-Patterns are as measureable as Form: percievable, you can point at one and say that it's there, but explaining how and why takes infinitely more extrapolation.
-
-[The Importance of Names]
-A name is more than just a word that represents an idea. 
-
-In ancient Egyptian culture, it was believed that a person's true name was given to them by the gods and was an intrinsic part of their being.
-The process of naming in ancient Egypt was believed to be bestowed upon individuals by the gods. It was thought to be an intrinsic part of a person's being, closely tied to their soul and spirit. Naming ceremonies were an important ritual in ancient Egyptian culture, where a person's Ren was revealed through divination.
-
-Similarly, in Hinduism, a person's name is considered sacred and is believed to carry spiritual significance. According to Hindu philosophy, a person's name is not just a mere word, but a representation of their true self, their essence, and their divine nature. It is believed that the name is given to an individual by their parents with great care and consideration, as it is believed to shape their destiny and influence their life's path.
+[The Importance of Names]  
+A name is more than just a word that represents an idea.  
+   
+In ancient Egyptian culture, it was believed that a person's true name was given to them by the gods and was an intrinsic part of their being.  
+The process of naming in ancient Egypt was believed to be bestowed upon individuals by the gods. It was thought to be an intrinsic part of a person's being, closely tied to their soul and spirit. Naming ceremonies were an important ritual in ancient Egyptian culture, where a person's Ren was revealed through divination.  
+  
+Similarly, in Hinduism, a person's name is considered sacred and is believed to carry spiritual significance. According to Hindu philosophy, a person's name is not just a mere word, but a representation of their true self, their essence, and their divine nature. It is believed that the name is given to an individual by their parents with great care and consideration, as it is believed to shape their destiny and influence their life's path.  
 
 In Native American cultures, names hold a special significance and are often given based on an individual's personality traits, achievements, or spiritual experiences. Native American names are believed to carry spiritual power and are considered a reflection of a person's identity, heritage, and connection with nature and the spirit world.
 
