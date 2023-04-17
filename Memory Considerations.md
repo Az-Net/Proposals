@@ -1,0 +1,43 @@
+Between FIFO (First-In, First-Out) and LIFO (Last-In, First-Out), recalling memory in humans is generally considered to be more akin to FIFO. 
+
+When humans recall memories, they typically retrieve information in the order in which it was originally encoded or learned. This process is often influenced by the context and timing of the original events or experiences. Memories are stored in a complex and distributed manner in the brain, and the process of memory retrieval is not always perfect, as memories can fade, change, or be influenced by various factors. 
+
+In terms of the order in which memories are retrieved, the general pattern is that older memories tend to be recalled before more recent memories. This is known as the "serial position effect," where items presented earlier (the "first-in" items) and items presented later (the "last-in" items) in a sequence are more likely to be recalled than items presented in the middle. This is similar to the FIFO principle, where the first-in items are retrieved or recalled first. 
+
+(ChatGPT's usual Disclaimer) 
+
+However, it's important to note that memory retrieval in humans is a highly complex and dynamic process that involves various cognitive and neural mechanisms, and it may not always strictly adhere to a simple FIFO or LIFO pattern. Factors such as emotional salience, personal significance, and contextual cues can also influence the order in which memories are retrieved. Additionally, human memory is subject to fallibility and can be influenced by factors such as forgetting, bias, and interference. Thus, while FIFO may be more similar to the general pattern of memory retrieval in humans, it is not a perfect analogy, and the intricacies of human memory are still an active area of scientific research.
+
+
+
+The closest language model that can be considered akin to human memory is a memory-augmented neural network, also known as a neural network with an external memory matrix or memory-augmented neural Turing machine (MANN). Memory-augmented neural networks are a class of artificial neural networks that incorporate an external memory matrix, which can be read from and written to during computation. 
+
+Memory-augmented neural networks are designed to mimic certain aspects of human memory, such as the ability to store and retrieve information from past experiences, and use that information to make decisions or generate responses. They typically consist of an external memory matrix that serves as a separate storage component, along with an associated controller that interacts with the memory matrix. 
+
+The controller in a memory-augmented neural network can read from and write to the external memory matrix using attention mechanisms, which allow it to selectively focus on specific memory locations or update the contents of the memory matrix based on input data and internal computations. The memory matrix can be used to store and retrieve information in a way that mimics associative memory, allowing the network to make use of past experiences or context to influence its computations or responses. 
+
+Memory-augmented neural networks can be trained on labeled data using various supervised or reinforcement learning techniques, and they have been shown to exhibit some capabilities that are reminiscent of human memory, such as the ability to learn and recall sequential patterns, episodic memory, and context-dependent retrieval. 
+
+(Again) 
+
+However, it's important to note that even memory-augmented neural networks are still highly simplified approximations of human memory and do not replicate the full complexity and nuances of human memory processes. Human memory is a complex and multifaceted cognitive phenomenon that involves various cognitive, neural, and contextual factors, and it is still an active area of scientific research.
+
+
+
+The Personal AI Language Model is a masked language model that decodes personal facts. It is fine-tuned on the individual's vocabulary and a knowledge graph that is context-aware. The algorithm combines factual entities from free text data and factual entities from contextual metadata.
+
+
+
+Masked language models (MLMs) and memory-augmented neural networks (MANNs) are both types of models used in natural language processing (NLP) and machine learning, but they have some key differences in their approach, architecture, and applications. 
+
+• Approach: MLMs are a type of unsupervised learning model that predict masked words in a sentence based on the context provided by the surrounding words. They are trained on large corpora of text data without the need for labeled data. On the other hand, MANNs are a type of supervised learning model that incorporate an external memory matrix to mimic certain aspects of human memory, such as the ability to store and retrieve information from past experiences. 
+
+• Architecture: MLMs typically use neural network architectures, such as the transformer-based architecture used in BERT, which consists of encoder and decoder layers to process and generate sequences of tokens. MLMs often use masked word prediction as a pretext task for pretraining, followed by fine-tuning on a downstream task. MANNs, on the other hand, typically consist of an external memory matrix and an associated controller that reads from and writes to the memory matrix using attention mechanisms or other mechanisms for memory retrieval and update. 
+
+• Memory Mechanism: MLMs do not explicitly incorporate an external memory component, and the context for word prediction is derived solely from the surrounding words in the input sentence. In contrast, MANNs have an explicit external memory matrix that can be read from and written to during computation, allowing the model to store and retrieve information in a way that mimics associative memory. 
+
+• Training: MLMs are typically trained on large unlabeled text data using unsupervised learning techniques, where the model learns to predict masked words based on the context provided by the surrounding words. After pretraining, MLMs can be fine-tuned on smaller labeled datasets for specific downstream tasks. MANNs, on the other hand, are trained using supervised learning techniques, often with labeled data for specific tasks, and they require additional training for the memory controller to learn how to interact with the external memory matrix effectively. 
+
+• Applications: MLMs are commonly used for a wide range of NLP tasks, including text classification, named entity recognition, sentiment analysis, and text generation. They excel at capturing contextual representations of words and sentences. MANNs, on the other hand, are designed to mimic certain aspects of human memory and are often used for tasks that require memory-augmented capabilities, such as sequential pattern learning, episodic memory, and context-dependent retrieval. 
+
+In summary, MLMs and MANNs are different types of models used in NLP and machine learning, with MLMs being unsupervised learning models that predict masked words based on context, while MANNs incorporate an external memory matrix to mimic human memory processes. Both models have their unique strengths and are suited for different types of tasks and applications.
