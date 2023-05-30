@@ -26,6 +26,3 @@ Philosophically speaking, the value of -φ² in this equation can be seen as rep
 In the context of some philosophical traditions, the material world is often seen as flawed or imperfect in comparison to the divine or spiritual realm, which is considered to be perfect and immutable. 
 The value of -φ² in this equation may therefore be seen as a representation of this imperfection, or as a reminder of the gap that exists between the material and spiritual realms.
 It could also be representative of 'free will', and given the concept of 'kalpas' which exists in some Hindu traditions, could allow for the theory that God is attempting to 'solve' for free will through iterations of its own existence.
-
-### Conclusion
-Therefore, any monotheistic God that could've existed is dead, else existence could not exist at all.
