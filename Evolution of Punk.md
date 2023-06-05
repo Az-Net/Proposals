@@ -19,7 +19,7 @@ By examining the evolution of punk through various subcultures, we gain a deeper
 # Grunge
 Grunge is a subculture and music genre that emerged in the late 1980s and early 1990s, primarily in the Pacific Northwest region of the United States, particularly in Seattle, Washington. Bands like Nirvana and Soundgarden played a significant role in defining and popularizing the grunge movement.
 
-Grunge music is characterized by its raw and distorted sound, combining elements of punk rock, heavy metal, and indie rock. The lyrics often focus on themes such as social alienation, apathy, angst, and the search for authenticity. Grunge lyrics often feature introspective and introspective themes, expressing a sense of disillusionment and frustration with the world.
+Grunge music is characterized by its raw and distorted sound, combining elements of punk rock, heavy metal, and indie rock. The lyrics often focus on themes such as social alienation, apathy, angst, and the search for authenticity. Grunge lyrics often feature introspective themes, expressing a sense of disillusionment and frustration with the world.
 
 Nirvana, led by Kurt Cobain, is one of the most influential grunge bands. Their breakthrough album, "Nevermind" (1991), propelled them to worldwide fame. Songs like "Smells Like Teen Spirit" became anthems for a disaffected youth generation and helped popularize the grunge movement. Cobain's distinctive vocals, combined with the band's powerful and melodic sound, made Nirvana a defining force in the genre.
 
