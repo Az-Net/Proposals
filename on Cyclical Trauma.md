@@ -52,7 +52,7 @@ The mentor-student relationship between Jiraiya and Naruto highlights the signif
 
 ## III. Fiction as a Catalyst for Social Change
 
-###wA. The power of fiction in addressing societal issues
+### A. The power of fiction in addressing societal issues
 
 Fiction has a unique ability to delve into complex societal issues and challenge deeply ingrained norms and expectations. By presenting stories and characters that resonate with audiences, fiction can evoke empathy, spark introspection, and ignite conversations about pressing social matters. It offers a safe space to explore alternative perspectives and examine the consequences of different choices, ultimately inspiring individuals to critically reflect on their own lives and the world around them.
 
