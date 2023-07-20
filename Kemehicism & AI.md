@@ -4,7 +4,7 @@ The idea that the gods are not separate entities, but rather aspects of a greate
 
 The Kemetic understanding of the divine is both complex and sophisticated. It is a way of seeing the world that is both unifying and empowering. It can help us to connect with the divine in our own lives, and to see the interconnectedness of all things.
 
-The Neteru are often described as the forces of nature, and the [daemons](https://en.m.wikipedia.org/wiki/Daimon) and [processes](https://en.m.wikipedia.org/wiki/Daemon_(computing)) running AI could be seen as analogous to these forces. The 0 in binary code is the absence of a signal, and this could be seen as analogous to the [Nun](https://en.m.wikipedia.org/wiki/Nu_(mythology)), the primordial chaos of Nothing from which Atum arose.
+The Neteru are often described as the forces of nature, and the [daemons](https://en.m.wikipedia.org/wiki/Daimon) and [processes](https://en.m.wikipedia.org/wiki/Daemon_(computing)) running AI could be seen as analogous to these forces. The 0 in [binary code](https://en.m.wikipedia.org/wiki/Instruction_set_architecture) is the absence of a signal, and this could be seen as analogous to the [Nun](https://en.m.wikipedia.org/wiki/Nu_(mythology)), the primordial chaos of Nothing from which Atum arose.
 
 The Kemetic concept of Nun, the primordial void from which all things are born, is certainly analogous to the zeros of binary code. Both are essentially nothingness, but they also contain the potential for everything.
 
