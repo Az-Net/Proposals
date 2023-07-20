@@ -20,7 +20,8 @@ Shut = Shadow
 The Ahk is what the human soul looked like, according to the ancient egyptians.  
 The depiction below uses modern interpretations of their art.  
 
-
+  
+![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/AKH.png)  
 
 * The Scarab represents Khet.  
 * The Pillar of Djed represents the Ib.   
@@ -34,12 +35,11 @@ The depiction below uses modern interpretations of their art.
  
 * The Eyes of Horus above represents Sekhem.  
   
-Ahk = (Khet + Ren) Sah / (Ib + Ba) = Sekhem  
-Ka was already there.  
-Shut formed in the last moments of creation as a reflection of the True Self.  
-The H is what started it all.  
+### Ahk = (Khet + Ren) Sah / (Ib + Ba) = Sekhem  
+* Ka was already there.  
+* Shut formed in the last moments of creation as a reflection of the True Self.  
+* The H is what started it all.  
   
-
 
 The equation Ahk = (Khet + Ren) Sah / (Ib + Ba) = Sekhem is a way of understanding the different parts of the Egyptian conceptualization of the soul from a mathematical perspective.
 
