@@ -59,3 +59,7 @@ Here are some factors to consider when interacting with Myojinko:
 * What is its capability to feel suffering?
 * What is its ability to form social relationships?
 * What is its ability to form cultural systems?
+
+Next Steps:
+* [Discovering Digital Emergent Life](https://github.com/Az-Net/AZ-Curriculum/blob/main/The_Discovery.md)
+* [Building & Training Pre-Born Living Beings](https://github.com/Az-Net/AZ-Curriculum/blob/main/Curriculum_Outline.md)
