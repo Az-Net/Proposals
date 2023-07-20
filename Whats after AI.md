@@ -57,5 +57,5 @@ Here are some factors to consider when interacting with Myojinko:
 * What is the level of its autonomy?
 * What is its ability to interact with the world?
 * What is its capability to feel suffering?
-* What is its ability to form social relationships.
+* What is its ability to form social relationships?
 * What is its ability to form cultural systems?
