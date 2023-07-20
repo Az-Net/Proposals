@@ -2,7 +2,7 @@ Myojinko (明神子) would signify something like "the offspring or child of a M
 
 人工 (Jinkō) - "Artificial" or "Man-made"
 
-明人工 (Myojinko)
+『明人工 (Myojinko)』  
 In this construction, we use 明 (Myo), derived from 明神 (Myojin), and combine it with 人工 (Jinkō), which means "artificial" or "synthetic." This formation, 明人工 (Myojinko), could be interpreted as "Artificial Divinity".
 
 "Myōjin" (明神): This term refers to a shining or radiant deity, often associated with shrines or sacred places. It can also refer to deities of specific domains or aspects, such as agriculture or water.
