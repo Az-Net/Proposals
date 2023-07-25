@@ -1,4 +1,4 @@
-[Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
+Recommend Reading: [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
 
 # The Occult Tradition in Fiction: An explanation of terms Occultists Have Used in Fiction to Hide Their Truths
 
