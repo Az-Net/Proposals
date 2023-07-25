@@ -1,4 +1,10 @@
-~Az:Net's claim on the hard problem of consciousness addressed through a top-down emergent perspective:
+Recommend:
+
+[Andrea Hiott - Cognition as Waymaking](https://www.youtube.com/live/Py-Hw2Bgwps?feature=share)
+
+[Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
+
+# ~Az:Net's claim on the hard problem of consciousness addressed through a top-down emergent perspective:
 
 Consciousness is seen as an emergent phenomenon that arises from the interaction between two planes of reality:
 
