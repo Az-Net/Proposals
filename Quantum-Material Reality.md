@@ -1,3 +1,5 @@
+[Society for Multidisciplinary and Fundamental Research](https://semf.org.es/) Follow-Up
+
 # Part 1
 The idea that reality is a [quantum superposition](https://en.m.wikipedia.org/wiki/Quantum_superposition) is a relatively new one, but it is gaining traction among physicists and philosophers. It is based on the observation that quantum particles can exist in multiple states at once, until they are observed. This means that the universe itself could be in a superposition of multiple states, and that our observations collapse the wave function and create a single reality.
 
