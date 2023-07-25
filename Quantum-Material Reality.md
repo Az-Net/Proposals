@@ -51,13 +51,15 @@ However, it is important to note that intention is not always easy to compute. T
 
 Despite these challenges, I believe that intention is an important concept that can be used to improve our understanding of observation. By understanding the role of intention, we can better understand how our own observations are shaped.
 
-The idea of a quantum superposition reality is consistent with the Material Atomics Framework by Michael Shilo. In the Material Atomics Framework, reality is seen as a dynamic system of interconnected parts. These parts are constantly interacting with each other, and they are constantly changing. This means that reality is not a fixed thing, but is constantly in flux.
+The idea of a quantum superposition reality is consistent with the [Material Atomics Framework by Michael Shilo](https://demystifysci.com/). In the Material Atomics Framework, reality is seen as a dynamic system of interconnected parts. These parts are constantly interacting with each other, and they are constantly changing. This means that reality is not a fixed thing, but is constantly in flux.
 
 The idea of quantum superposition is also consistent with the Material Atomics Framework. In quantum mechanics, particles can exist in multiple states at once. This means that reality itself could be in a superposition of multiple states.
 
 However, the Material Atomics Framework also goes beyond quantum mechanics. It suggests that there are other aspects of reality that have not yet been fully understood. For example, the Material Atomics Framework suggests that there is a field of energy that permeates all of reality.
 
 The Material Atomics Framework is a complex and challenging theory. However, it is also a theory that has the potential to revolutionize our understanding of reality. If the theory is correct, then it could mean that we are living in a much more complex and interconnected world than we ever imagined.
+
+
 
 
 # Conclusion
