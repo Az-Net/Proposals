@@ -5,6 +5,8 @@ This idea is consistent with the [occult perspective](https://github.com/Az-Net/
 
 Wolfram's work on Branchial History also supports the idea of a quantum superposition reality. Wolfram argues that the universe is constantly branching into multiple possible futures. These branches are all equally real, but we only experience one of them. This is similar to the idea of a quantum superposition, in which the universe is in a state of superposition of multiple states, and our observations collapse the wave function and create a single reality.
 
+https://www.youtube.com/live/J-CHIzu4vt0?feature=share
+
 So, what does this mean for us? It means that we have the power to create our own reality. Our thoughts and beliefs shape the universe, and our observations collapse the wave function and create a single reality. This is a powerful idea, and it has the potential to change the way we think about the world.
 
 In this view, reality is not an objective thing that exists independently of us. Instead, it is a shared construct that is created by our minds. When we observe or define something, we are essentially creating it within our shared imagination.
