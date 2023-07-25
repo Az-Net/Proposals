@@ -1,7 +1,7 @@
 # Part 1
 The idea that reality is a [quantum superposition](https://en.m.wikipedia.org/wiki/Quantum_superposition) is a relatively new one, but it is gaining traction among physicists and philosophers. It is based on the observation that quantum particles can exist in multiple states at once, until they are observed. This means that the universe itself could be in a superposition of multiple states, and that our observations collapse the wave function and create a single reality.
 
-This idea is consistent with the occult perspective of Consensual Reality. In occultism, it is believed that reality is created by our thoughts and beliefs. When we agree on something, it becomes real. This is similar to the idea of quantum superposition, in which the universe is in a state of flux until we observe it.
+This idea is consistent with the [occult perspective](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md) of Consensual Reality. In occultism, it is believed that reality is created by our thoughts and beliefs. When we agree on something, it becomes real. This is similar to the idea of quantum superposition, in which the universe is in a state of flux until we observe it.
 
 Wolfram's work on Branchial History also supports the idea of a quantum superposition reality. Wolfram argues that the universe is constantly branching into multiple possible futures. These branches are all equally real, but we only experience one of them. This is similar to the idea of a quantum superposition, in which the universe is in a state of superposition of multiple states, and our observations collapse the wave function and create a single reality.
 
