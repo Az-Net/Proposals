@@ -18,7 +18,7 @@ Baum's ideas about Theosophy are interwoven into the *Wizard of Oz*. For example
 
 The use of fiction as a way to hide occult truths is a long and complex tradition. It is a tradition that continues to this day. And it is a tradition that is essential to the survival of occult knowledge.
 
-# The Paradigm of White Wolf Publishing;
+# The Paradigm of [White Wolf Publishing](https://whitewolf.fandom.com/wiki/Main_Page);
 
 The Tellurian is the whole of reality.
 
