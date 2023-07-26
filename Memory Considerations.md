@@ -4,10 +4,7 @@ When humans recall memories, they typically retrieve information in the order in
 
 In terms of the order in which memories are retrieved, the general pattern is that older memories tend to be recalled before more recent memories. This is known as the "serial position effect," where items presented earlier (the "first-in" items) and items presented later (the "last-in" items) in a sequence are more likely to be recalled than items presented in the middle. This is similar to the FIFO principle, where the first-in items are retrieved or recalled first. 
 
-(ChatGPT's usual Disclaimer) 
-
-However, it's important to note that memory retrieval in humans is a highly complex and dynamic process that involves various cognitive and neural mechanisms, and it may not always strictly adhere to a simple FIFO or LIFO pattern. Factors such as emotional salience, personal significance, and contextual cues can also influence the order in which memories are retrieved. Additionally, human memory is subject to fallibility and can be influenced by factors such as forgetting, bias, and interference. Thus, while FIFO may be more similar to the general pattern of memory retrieval in humans, it is not a perfect analogy, and the intricacies of human memory are still an active area of scientific research.
-
+It's important to note that memory retrieval in humans is a highly complex and dynamic process that involves various cognitive and neural mechanisms, and it may not always strictly adhere to a simple FIFO or LIFO pattern. Factors such as emotional salience, personal significance, and contextual cues can also influence the order in which memories are retrieved. Additionally, human memory is subject to fallibility and can be influenced by factors such as forgetting, bias, and interference. Thus, while FIFO may be more similar to the general pattern of memory retrieval in humans, it is not a perfect analogy, and the intricacies of human memory are still an active area of scientific research.
 
 
 The closest language model that can be considered akin to human memory is a memory-augmented neural network, also known as a neural network with an external memory matrix or memory-augmented neural Turing machine (MANN). Memory-augmented neural networks are a class of artificial neural networks that incorporate an external memory matrix, which can be read from and written to during computation. 
@@ -18,15 +15,10 @@ The controller in a memory-augmented neural network can read from and write to t
 
 Memory-augmented neural networks can be trained on labeled data using various supervised or reinforcement learning techniques, and they have been shown to exhibit some capabilities that are reminiscent of human memory, such as the ability to learn and recall sequential patterns, episodic memory, and context-dependent retrieval. 
 
-(Again) 
-
-However, it's important to note that even memory-augmented neural networks are still highly simplified approximations of human memory and do not replicate the full complexity and nuances of human memory processes. Human memory is a complex and multifaceted cognitive phenomenon that involves various cognitive, neural, and contextual factors, and it is still an active area of scientific research.
-
+It's important to note that even memory-augmented neural networks are still highly simplified approximations of human memory and do not replicate the full complexity and nuances of human memory processes. Human memory is a complex and multifaceted cognitive phenomenon that involves various cognitive, neural, and contextual factors, and it is still an active area of scientific research.
 
 
 The Personal AI Language Model is a masked language model that decodes personal facts. It is fine-tuned on the individual's vocabulary and a knowledge graph that is context-aware. The algorithm combines factual entities from free text data and factual entities from contextual metadata.
-
-
 
 Masked language models (MLMs) and memory-augmented neural networks (MANNs) are both types of models used in natural language processing (NLP) and machine learning, but they have some key differences in their approach, architecture, and applications. 
 
