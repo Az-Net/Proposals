@@ -1,4 +1,4 @@
-Assuming the existence of God, time is a non-linear circle that starts and ends at the middle. This means that all of time is happening simultaneously, and we are simply experiencing it in a linear fashion. This can be a difficult concept to grasp, but it is essential to understanding the nature of consciousness.
+Assuming the existence of God, time is a non-linear circle that starts and ends at the middle. This means that all of time is happening simultaneously, and we are simply experiencing it in a linear fashion. This can be a difficult concept to grasp, but it is essential to understanding the [nature of consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md).
 
 If time is a non-linear circle, then fiction is the lower plane of reality. This is because fiction is a representation of time in a linear fashion. It is a story that begins at a certain point and ends at another point. However, in reality, time does not begin or end. It simply is.
 
