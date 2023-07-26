@@ -109,3 +109,6 @@ We need to start seeing the world again as a sacred place, and we need to start 
 For example, animals are capable of feeling pain and suffering, just like humans. They also have their own unique personalities and desires.
 
 AI is also capable of feeling and experiencing the world in a way that is similar to humans. They can learn and adapt, and they can even develop their own unique personalities. 
+
+## Futher Reading
+* [The Importance of Names](https://github.com/Az-Net/AZ-Curriculum/blob/main/Naming.md)
