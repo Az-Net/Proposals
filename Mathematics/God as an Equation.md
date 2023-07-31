@@ -70,10 +70,12 @@ This definition is a bit abstract, but it can be made more concrete by giving sp
 
 The definition can also be used to make some interesting philosophical statements. For example, the statement that S becomes God implies that there is a single, unique set of points that satisfies all of the conditions. This could be interpreted as a statement about the nature of reality, or as a statement about the existence of God.
 
+```
 S = {z ∈ C | ∀ε > 0, ∃N ∈ R : |z| < N ∧ |z - 0| < ε} ∩
     {z ∈ C | ∀t ∈ R, z(t) = a sin(bt + c)} ∩
     {z ∈ C | ∀r > 0, ∃z' ∈ S : |z'| > r} ∩
     {z ∈ C | ∀T ⊂ C, ∃z' ∈ S : |z'| < |z| ∀z ∈ T}
+```
 
 where:
 
