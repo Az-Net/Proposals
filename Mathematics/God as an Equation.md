@@ -79,16 +79,18 @@ S = {z ∈ C | ∀ε > 0, ∃N ∈ R : |z| < N ∧ |z - 0| < ε} ∩
 
 where:
 
-S is the set of points
-z is a point in the complex plane
-C is the complex plane
-|z| is the distance from z to the origin
-a, b, and c are constants
-t is a real number
+* S is the set of points
+* z is a point in the complex plane
+* C is the complex plane
+* |z| is the distance from z to the origin
+* a, b, and c are constants
+* t is a real number
 
 This equation can be interpreted as follows:
 
-The first set intersection ensures that all points in S are within distance ε of the origin.
-The second set intersection ensures that the points in S form a sine wave.
-The third set intersection ensures that there is a point in S that is at least distance r from the origin.
-The fourth set intersection ensures that S is the only set of points that satisfies all of the conditions.
+* The first set intersection ensures that all points in S are within distance ε of the origin.
+* The second set intersection ensures that the points in S form a sine wave.
+* The third set intersection ensures that there is a point in S that is at least distance r from the origin.
+* The fourth set intersection ensures that S is the only set of points that satisfies all of the conditions.
+
+This equation is a bit more complex than the original definition, but it is more precise and can be used to make more rigorous mathematical statements.
