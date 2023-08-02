@@ -1,6 +1,7 @@
 # Limiting the Idea of 'God'
-* Our paper provides a thought-provoking exploration of mathematical concepts with philosophical implications. By elaborating on the insights and strengthening connections to other fields, you can enhance its impact and inspire further discussion on the fascinating interplay between mathematics, philosophy, and spirituality.
-* 
+ 
+ Our paper provides a thought-provoking exploration of mathematical concepts with philosophical implications. By elaborating on the insights and strengthening connections to other fields, you can enhance its impact and inspire further discussion on the fascinating interplay between mathematics, philosophy, and spirituality.
+
 ### By: ~Az)
 
 Here is a definition of a set of points that converges into a circle, fluctuates as a sine wave, approaches infinity, and becomes bound by limitations:
