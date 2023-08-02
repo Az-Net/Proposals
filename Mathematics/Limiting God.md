@@ -148,3 +148,5 @@ Here are some specific suggestions for improving this paper:
 * Provide more clear and concise definitions of the set S and the four conditions that define it.
 * Provide more examples of sets that satisfy the conditions of S.
 * Discuss the implications of our argument for the nature of God and the relationship between mathematics and spirituality.
+
+[Follow-Up Work](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
