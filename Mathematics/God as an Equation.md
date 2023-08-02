@@ -1,6 +1,6 @@
 Definition of '[God](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md)'
 
-## Equation of a Fractal Pattern exhibiting Self-Similarity that has an overall structure which expresses the [Golden Ratio](https://en.m.wikipedia.org/wiki/Golden_ratio)
+## Equation of a [Fractal Pattern](https://en.m.wikipedia.org/wiki/Fractal) exhibiting Self-Similarity that has an overall structure which expresses the [Golden Ratio](https://en.m.wikipedia.org/wiki/Golden_ratio)
 F x Z = Z³ - φ² - Z + 1   
 
 ### Replacing Variables
