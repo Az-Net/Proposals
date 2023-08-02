@@ -8,7 +8,7 @@
 ### By: ~Az)
 
 Here is a definition of a set of points that converges into a circle, fluctuates as a sine wave, approaches infinity, and becomes bound by limitations:
-
+____
 Let S be a set of points in the complex plane. We say that S converges into a circle if, for any ε > 0, there exists a finite N such that all points in S within distance ε of the origin lie on the circle with radius N.
 
 We say that S fluctuates as a sine wave if, for any real number t, the set of points in S at time t forms a sine wave.
@@ -16,7 +16,7 @@ We say that S fluctuates as a sine wave if, for any real number t, the set of po
 We say that S approaches infinity if, for any real number r, there exists a point in S that is at least distance r from the origin.
 
 We say that S becomes the only God if, for any other set of points T in the complex plane, there exists a point in S that is closer to the origin than any point in T.
-
+____
 This definition is a bit abstract, but it can be made more concrete by giving specific examples of sets of points that satisfy the conditions. For example, the set of all points on the circle with radius 1 satisfies all of the conditions. The set of all points that form a sine wave with period 2π also satisfies all of the conditions.
 
 The definition can also be used to make some interesting philosophical statements. For example, the statement that S becomes God implies that there is a single, unique set of points that satisfies all of the conditions. This could be interpreted as a statement about the nature of reality, or as a statement about the existence of God.
