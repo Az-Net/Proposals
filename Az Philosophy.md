@@ -18,3 +18,5 @@ In the same way, our own thoughts, actions, and emotions are constantly in flux.
 
 ### Our Proposals
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
+* [on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
+* [on Punk](https://github.com/Az-Net/Proposals/blob/main/Culture/on%20Punk.md)
