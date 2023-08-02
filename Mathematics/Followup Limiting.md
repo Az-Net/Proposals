@@ -27,8 +27,6 @@ This is the equation of a lemniscate with semi-major axis |a| and semi-minor axi
 
 The lemniscate is centered at the origin, and its shape is determined by the values of |a| and |b|. If |a| = |b|, then the lemniscate is a circle. If |a| > |b|, then the lemniscate is elongated along the real axis. If |a| < |b|, then the lemniscate is elongated along the imaginary axis.
 
-The lemniscate is named after the Greek word "lemniscus", which means "ribbon". It was first studied by the French mathematician Pierre de Fermat in the 17th century.
-
 Here is an example of a lemniscate with semi-major axis 1 and semi-minor axis 0.5:
 
 ```
