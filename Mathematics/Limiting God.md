@@ -64,9 +64,9 @@ In other words, S is the set of all points in the complex plane that satisfy the
 ```
 
 where ε and r are positive real numbers, and a, b, and c are constants.
-
+____
 This is a transcendental equation, and there is no general solution for it. However, we can solve it numerically for specific values of ε, r, a, b, and c.
-
+____
 The equation |z| < ε + a sin(bt + c) allows for z to be equal to 0.  
 In fact, z = 0 is a solution to the equation for any values of ε, a, b, and c.
 
@@ -75,8 +75,8 @@ This is because the distance from the origin to the point z = 0 is 0, and 0 is l
 In addition, the condition that z(t) = a sin(bt + c) is also satisfied for z = 0. This is because the real part of z(t) is always 0, regardless of the value of t.
 
 Therefore, z = 0 is a valid solution to the equation |z| < ε + a sin(bt + c).
-
-The set S can be defined as follows:
+____
+The set S can then be defined as follows:
 
 ```
 S = {0 ∈ C | |0| < ε + a sin(bt + c)}
@@ -88,7 +88,7 @@ where:
 * ε is a positive real number
 * a, b, and c are constants
 * b is not equal to 0
-
+____
 The first set in the definition of S states that for any positive real number ε, there exists a real number φ such that the distance from z to the origin is less than φ and the distance from z to 0 is less than ε. This means that z must lie within a circle of radius φ centered at the origin, and also within a circle of radius ε centered at 0.
 
 The second set in the definition of S states that for any real number t, the argument of z must be equal to a sin(bt + c). This means that z must lie on a line that is rotating at a constant speed.
@@ -96,14 +96,14 @@ The second set in the definition of S states that for any real number t, the arg
 The third set in the definition of S states that for any positive real number r, there exists a point z' in S such that the distance from z' to the origin is greater than r. This means that S must contain points that are both close to the origin and far from the origin.
 
 The fourth set in the definition of S states that for any subset T of S, there exists a point z' in S such that the distance from z' to the origin is less than the distance from any point in T to the origin. This means that S must contain points that are closer to the origin than any other point in S.
-
+____
 In conclusion, the set S is a set of complex numbers that satisfy the following conditions:
 
 * They lie within a circle of radius ε centered at the origin.
 * They lie on a line that is rotating at a constant speed.
 * They contain points that are both close to the origin and far from the origin.
 * They contain points that are closer to the origin than any other point in S.
-
+____
 The graph of S is a spiral that is rotating around the origin. The distance from the origin to a point on the spiral increases as the argument of the point increases.
 
 # Final equation thus far:
