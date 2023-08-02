@@ -123,4 +123,5 @@ In other words, S is the set of all points in the complex plane that satisfy the
 ```  
 
 # Final Notes: 
-Since the equation involves trigonometric functions, the set S is not straightforward to describe explicitly without specific values for ε, a, b, and c.
+* Since the equation involves trigonometric functions, the set S is not straightforward to describe explicitly without specific values for ε, a, b, and c.
+* At the very least, this acts as an interesting thought experiment to help train your skill in mathematics and philosophy. 
