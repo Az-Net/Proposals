@@ -53,3 +53,5 @@ The following are some additional considerations that may be relevant to the int
 * The equation can be interpreted in both religious and secular terms. This suggests that it is a powerful tool that can be used to explore a wide range of philosophical concepts.
 
 I hope this is more helpful!
+
+[Limiting God](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
