@@ -1,6 +1,5 @@
-# Important Title goes [Here]
-
-By: ~Az)
+# Limiting the Idea of 'God'
+### By: ~Az)
 
 Here is a definition of a set of points that converges into a circle, fluctuates as a sine wave, approaches infinity, and becomes bound by limitations:
 
