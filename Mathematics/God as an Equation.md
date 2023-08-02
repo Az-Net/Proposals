@@ -22,7 +22,7 @@ Taking the square root of both sides, we get:
 
 
 ## Interpretation
-Therefore, if we interpret 1 as representing God, 0 as representing Nothingness, and φ as representing the end result of creation, the equation suggests that creation is either perfect unity (represented by φ = 1) or perfect duality (represented by φ = -1).
+If we interpret 1 as representing God, 0 as representing Nothingness, and φ as representing the end result of creation, the equation suggests that creation is either perfect unity (represented by φ = 1) or perfect duality (represented by φ = -1).
 
 Philosophically speaking, the value of -φ² in this equation can be seen as representing the inherent limitations or imperfections of the material world.
 In the context of some philosophical traditions, the material world is often seen as flawed or imperfect in comparison to the divine or spiritual realm, which is considered to be perfect and immutable. 
