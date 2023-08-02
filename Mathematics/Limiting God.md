@@ -124,4 +124,12 @@ In other words, S is the set of all points in the complex plane that satisfy the
 
 # Final Notes: 
 * Since the equation involves trigonometric functions, the set S is not straightforward to describe explicitly without specific values for ε, a, b, and c.
-* At the very least, this acts as an interesting thought experiment to help train your skill in mathematics and philosophy. 
+* At the very least, this acts as an interesting thought experiment to help train your skill in mathematics and philosophy.
+
+
+## Possible Future Updates:
+Here are some specific suggestions for improving this paper:
+
+* Provide more clear and concise definitions of the set S and the four conditions that define it.
+* Provide more examples of sets that satisfy the conditions of S.
+* Discuss the implications of our argument for the nature of God and the relationship between mathematics and spirituality.
