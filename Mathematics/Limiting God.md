@@ -129,8 +129,8 @@ In other words, S is the set of all points in the complex plane that satisfy the
 ```  
 
 # Final Notes: 
-* Since the equation involves trigonometric functions, the set S is not straightforward to describe explicitly without specific values for ε, a, b, and c.
-* At the very least, this acts as an interesting thought experiment to help train your skill in mathematics and philosophy.
+* Since the equation involves trigonometric functions, the set S is not straightforward to describe explicitly without specific values for ε, a, b, and c.  
+At the very least, this acts as an interesting thought experiment to help train your skill in mathematics and philosophy.  
 * **Convergence and Circles:** The notion of S converging into a circle suggests that as we consider points in the complex plane closer and closer to the origin (within a distance ε), they eventually lie on a circle with a certain radius N. This concept has connections to limits and topology. The requirement for all points to lie on the same circle as ε approaches zero imposes restrictions on the distribution of points in S.
 * **Fluctuating Sine Wave:** The condition that S fluctuates as a sine wave links our set of points to periodic functions. It indicates that at any given time t, the points in S form a sine wave. This introduces a dynamic aspect to the set, implying movement or periodic behavior in the complex plane. The presence of a sine wave suggests patterns and regularity within the set.
 * **Approaching Infinity:** The idea that S approaches infinity implies that there are points in S that can be arbitrarily far from the origin. This condition ensures that S is not confined to a bounded region and encompasses a potentially infinite area of the complex plane. Such behavior could be linked to unbounded functions or asymptotic growth in mathematics.
