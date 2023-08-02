@@ -15,3 +15,6 @@ In the end, the balance that we seek is not between thinking and doing, or betwe
 This philosophy is also reminiscent of the Taoist concept of yin and yang. Yin and yang are two opposing forces that are constantly in balance. Yin represents the feminine, dark, and passive aspects of the universe, while yang represents the masculine, light, and active aspects. The two forces are always in flux, and their balance is essential for the universe to function properly.
 
 In the same way, our own thoughts, actions, and emotions are constantly in flux. We need to find a balance between the different aspects of our being in order to live a fulfilling life. When we can embrace both the positive and negative aspects of ourselves, we can achieve true harmony.
+
+### Our Proposals
+* [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
