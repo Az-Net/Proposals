@@ -93,6 +93,6 @@ Here are some specific implications of a single unified point of consciousness s
 
 * The universe would be a single, unified whole, rather than a collection of separate parts.
 * There would be a single, ultimate source of meaning and purpose in the universe.
-* The concept of God would be redefined, as God would be seen as the underlying reality of the universe.
+* The concept of God would be redefined, as [God](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md) would be seen as the underlying reality of the universe.
 
 These are just some of the implications of a single unified point of consciousness satisfying S. It is an interesting idea that raises some important questions about the nature of reality and the existence of God.
