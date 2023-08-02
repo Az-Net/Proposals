@@ -20,3 +20,6 @@ In the same way, our own thoughts, actions, and emotions are constantly in flux.
 * [on Love](https://github.com/Az-Net/Proposals/blob/main/On%20Love.md)
 * [on Ego](https://github.com/Az-Net/Proposals/blob/main/on%20Ego.md)
 * [on Punk](https://github.com/Az-Net/Proposals/blob/main/Culture/on%20Punk.md)
+* [on The Ethics of Sentience](https://github.com/Az-Net/Proposals/blob/main/Ethics/Ethics%20of%20Sentience.md)
+* [on the Hard Problem of Consciousness](https://github.com/Az-Net/Proposals/blob/main/HPoC.md)
+* [on Occultism as a Modern Profession](https://github.com/Az-Net/Proposals/blob/main/Occultism/Argument%20For%20Modern%20Professional%20Occultist.md)
