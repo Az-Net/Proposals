@@ -1,7 +1,7 @@
 Follow-Up to: [Limiting God](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
 
 # Conflicting Results
-(I'm bad at math)
+
 * #### The set of all points in the complex plane that satisfy the equation |0| < ε + a sin(bt + c) is the entire complex plane, as the absolute value of any complex number is always non-negative. The inequality |0| < ε + a sin(bt + c) holds true for all values of ε, a, b, t, and c.
 * #### The set of all points in the complex plane that satisfy the equation |0| < ε + a sin(bt + c) is a **lemniscate**.
 
