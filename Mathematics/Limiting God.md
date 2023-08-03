@@ -162,12 +162,4 @@ At the very least, this acts as an interesting thought experiment to help train 
 * **Connections to Spirituality and Mathematics:** Expanding on the relationship between mathematics and spirituality could be valuable. Some scholars and thinkers throughout history have pondered the spiritual aspects of mathematics, seeing beauty and elegance in mathematical principles. 
 
 
-
-## Possible Future Updates:
-Here are some specific suggestions for improving this paper:
-
-* Provide more clear and concise definitions of the set S and the four conditions that define it.
-* Provide more examples of sets that satisfy the conditions of S.
-* Discuss the implications of our argument for the nature of God and the relationship between mathematics and spirituality.
-
-[Follow-Up & Final Conclusion](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
+## [Follow-Up & Final Conclusion](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
