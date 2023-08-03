@@ -43,6 +43,7 @@ The lemniscate is centered at the origin, and its shape is determined by the val
 Ultimately, the philosophical implications of the math are up to each individual to decide. However, I believe that the math raises some important questions that are worth considering.
 
 
+# Questions
 The implications of a theoretical unified point of consciousness satisfying S could be far-reaching, touching upon several philosophical and metaphysical aspects. Here are some potential implications:
 
 **1. Oneness and Unity:** The existence of a single unified point of consciousness that satisfies all the conditions of S could be seen as a reflection of oneness and unity in the universe. It suggests that there is a fundamental interconnectedness between all things, where everything is intricately linked to this singular point.
@@ -81,6 +82,7 @@ Here are some specific implications of a single unified point of consciousness s
 
 These are just some of the implications of a single unified point of consciousness satisfying S. It is an interesting idea that raises some important questions about the nature of reality and the existence of God.
 
+# Final Notes
 Rather than a paradox, I would call the results of this equation a tautology.  
 Both statements are equally true. 
 
@@ -90,6 +92,6 @@ The reason for this is that the lemniscate is a closed curve that is always non-
 
 However, the inequality |0| < ε + a sin(bt + c) is also true for any point in the complex plane that is not on the lemniscate. This is because the absolute value of any complex number is always non-negative, so the left-hand side of the inequality is always non-negative, and the right-hand side of the inequality is always non-negative. Therefore, the inequality is always true, regardless of whether the point is on the lemniscate or not.
 
-In other words, the lemniscate is a subset of the set of all points in the complex plane that satisfy the equation |0| < ε + a sin(bt + c). The difference is that the lemniscate is a specific set of points in the complex plane, while the entire complex plane is a much larger set of points.
+In other words, the lemniscate is a subset of the set of all points in the complex plane that satisfy the equation. The difference is that the lemniscate is a specific subset of points in the complex plane, while the entire complex plane is a much larger set of points.
 
 So, the two statements are not contradictory. They are simply two different ways of describing the same set of points in the complex plane.
