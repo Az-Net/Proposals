@@ -1,3 +1,4 @@
+Recommended Reading:  
 [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
 
 # Limiting the Idea of 'God'
