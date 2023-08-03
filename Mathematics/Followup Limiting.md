@@ -29,37 +29,9 @@ This is the equation of a lemniscate with semi-major axis |a| and semi-minor axi
 
 The lemniscate is centered at the origin, and its shape is determined by the values of |a| and |b|. If |a| = |b|, then the lemniscate is a circle. If |a| > |b|, then the lemniscate is elongated along the real axis. If |a| < |b|, then the lemniscate is elongated along the imaginary axis.
 
-Here is an example of a lemniscate with semi-major axis 1 and semi-minor axis 0.5:
-
-```
-import cmath
-
-def lemniscate(a, b):
-  z = cmath.complex(0, 0)
-  while abs(z) < 2:
-    print(z)
-    z += a * cmath.cos(b * z) + b * cmath.sin(b * z)
-
-lemniscate(1, 0.5)
-```
-
-This code will print out the points on the lemniscate, one by one. The output should look like this:
-
-```
-(0, 0)
-(0.5, 0)
-(1, 0)
-(1.5, 0)
-(1, -0.5)
-(0.5, -1)
-(0, -1.5)
-(-0.5, -1)
-(-1, -0.5)
-...
-```
 
 # Conclusion
-* The math suggests that God is both infinite and finite at the same time. This is a paradox.
+* The math suggests that God is both infinite and finite at the same time. This is a paradox, and no one set of conditions satisfies S.
 * The math suggests that the universe is a fractal. This means that the universe is self-similar at all scales.
 * The math suggests that personal existence is a matter of perspective.
 
