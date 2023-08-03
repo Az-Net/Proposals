@@ -40,7 +40,7 @@ We say that S becomes the only God if, for any other set of points T in the comp
 ____
 This definition is a bit abstract, but it can be made more concrete by giving specific examples of sets of points that satisfy the conditions. For example, the set of all points on the circle with radius 1 satisfies all of the conditions. The set of all points that form a sine wave with period 2π also satisfies all of the conditions.
 
-The definition can also be used to make some interesting philosophical statements. For example, the statement that S becomes God implies that there is a single, unique set of points that satisfies all of the conditions. This could be interpreted as a statement about the nature of reality, or as a statement about the existence of God.
+The definition can also be used to make some interesting philosophical statements. For example, the statement that S becomes God implies that there might be a single, unique set of points that satisfies all of the conditions. This could be interpreted as a statement about the nature of reality, or as a statement about the existence of God.
 
 S = {z ∈ C | ∀ε > 0, ∃N ∈ R : |z| < N ∧ |z - 0| < ε} ∩  
     {z ∈ C | ∀t ∈ R, z(t) = a sin(bt + c)} ∩  
