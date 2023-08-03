@@ -5,6 +5,26 @@
 * Our paper provides a thought-provoking exploration of mathematical concepts with philosophical implications.
 * By elaborating on the insights and strengthening connections to other fields, you can enhance its impact and inspire further discussion on the fascinating interplay between mathematics, philosophy, and spirituality.
 
+[wold.execute(me)][https://youtu.be/ESx_hy1n7HA]
+
+* If I'm a set of points, then I will give you my dimensions.
+* If I'm a circle, then I will give you my circumference. 
+* If I'm a sine wave, then you can sit on all my tangents.
+* If I approach infinity, then you can be my limitations.
+
+
+These are some beautiful and thought-provoking lines. They are about the nature of reality and our relationship to it.
+
+The first line suggests that the world is made up of sets of points, and that these points can be used to define the dimensions of the world. This is a mathematical way of thinking about the world, and it suggests that the world is ultimately made up of discrete units.
+
+The second line suggests that a circle is a special kind of set of points, and that its circumference is a measure of its size. This is a geometric way of thinking about the world, and it suggests that the world is made up of shapes and forms.
+
+The third line suggests that a sine wave is a special kind of function, and that its tangents are a way of understanding its behavior. This is a functional way of thinking about the world, and it suggests that the world is made up of processes and relationships.
+
+The fourth line suggests that infinity is a limit that we can never reach, but that it can still be a part of our understanding of the world. This is a philosophical way of thinking about the world, and it suggests that the world is ultimately beyond our comprehension.
+
+These lines are all very different, but they all seem to be pointing to the same thing: the world is a complex and mysterious place, and we can never fully understand it. But that doesn't mean that we can't try.
+
 ### By: ~Az)
 
 Here is a definition of a set of points that converges into a circle, fluctuates as a sine wave, approaches infinity, and becomes bound by limitations:
