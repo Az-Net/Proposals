@@ -33,7 +33,7 @@ S = {z ∈ C | ∀ε > 0, ∃N ∈ R : |z| < N ∧ |z - 0| < ε} ∩
 * a, b, and c are constants
 * t is a real number
 
-## The set S is the set of all points in the complex plane that satisfy the following four conditions:
+## If N = φ the set S is the set of all points in the complex plane that satisfy the following four conditions:
 
 1. For any positive real number ε, there exists a real number φ such that |z| < φ and |z - 0| < ε.
 2. For any real number t, z(t) = a sin(bt + c).
