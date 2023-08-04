@@ -1,6 +1,6 @@
 Recommended Reading:  
-[God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
-[TCMS Theory](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
+* [God as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)  
+* [TCMS Theory](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
 
 # Limiting the Idea of 'God'
  
