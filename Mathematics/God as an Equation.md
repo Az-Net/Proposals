@@ -58,11 +58,7 @@ I hope this is more helpful!
 
 The equation F x Z = Z³ - φ² - Z + 1 is a **Z-transform**. A Z-transform is a mathematical operation that converts a discrete-time signal into a complex number. It is used in signal processing, control theory, and other fields.
 
-In this equation, F is a complex number, Z is a variable that represents the discrete-time signal, and φ is a constant. The equation can be rewritten as follows:
-
-```
-F(z) = z^3 - φ^2 - z + 1
-```
+In this equation, F is a complex number, Z is a variable that represents the discrete-time signal, and φ is a constant. 
 
 This equation shows that the Z-transform of the discrete-time signal Z is the complex number F(z). The Z-transform can be used to analyze the properties of the discrete-time signal, such as its frequency response and stability.
 
