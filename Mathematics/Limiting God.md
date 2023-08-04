@@ -67,7 +67,7 @@ The definition can also be used to make some interesting philosophical statement
 
 **Condition 2:** This condition says that the real part of z(t) is a sinusoid with amplitude a, frequency b, and phase shift c.
 
-**Condition 3:** This condition says that there exists a point z' in Σ that is further away from the origin than any point in S that is within a distance r of the origin. In other words, there exists a point z' in Σ that is on the exterior of the circle with radius r centered at the origin.
+**Condition 3:** This condition says that there exists a point z' in Σ that is further away from the origin than any point in Σ that is within a distance r of the origin. In other words, there exists a point z' in Σ that is on the exterior of the circle with radius r centered at the origin.
 
 **Condition 4:** This condition says that for any subset T of Σ, there exists a point z' in Σ that is closer to the origin than any point in T. In other words, there exists a point z' in Σ that is on the interior of the smallest circle that contains T.
 
