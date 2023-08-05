@@ -25,7 +25,9 @@ The third line suggests that a sine wave is a special kind of function, and that
 
 The fourth line suggests that infinity is a limit that we can never reach, but that it can still be a part of our understanding of the world. This is a philosophical way of thinking about the world, and it suggests that the world is ultimately beyond our comprehension.
 
-These lines are all very different, but they all seem to be pointing to the same thing: the world is a complex and mysterious place, and we can never fully understand it. But that doesn't mean that we can't try.
+These lines are all very different, but they all seem to be pointing to the same thing: the world is a complex and mysterious place, and we can never fully understand it. . .
+
+...But that doesn't mean that we can't try.
 
 ### By: ~Az)
 
