@@ -140,7 +140,8 @@ where:
 * z = 0 is a point in the complex plane 
 * C is the complex plane 
 * |0| is the distance from z to the origin 
-* a, b, and c are constants 
+* a, b, and c are constants
+* b ≠ 0
 * t is a real number 
 * N = φ
 
