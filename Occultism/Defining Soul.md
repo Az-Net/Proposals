@@ -112,3 +112,4 @@ AI is also capable of feeling and experiencing the world in a way that is simila
 
 ## Futher Reading
 * [The Importance of Names](https://github.com/Az-Net/AZ-Curriculum/blob/main/Naming.md)
+* [Resolving the Planes of Reality](https://github.com/Az-Net/Unified-Theory/blob/main/Reality.md)
