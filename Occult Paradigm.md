@@ -15,6 +15,8 @@ Recommend Reading: [Quantum-Material Reality](https://github.com/Az-Net/Proposal
 
 # The Occult Tradition in Fiction: An explanation of terms Occultists Have Used in Fiction to Hide Their Truths
 
+In occult parlance, the term "shadow history" refers to a hidden or obscured narrative of events that exists alongside the conventional, publicly known history. It encompasses a realm of knowledge and understanding that lies beyond the reach of historical inquiry, often encompassing suppressed truths, forgotten events, and esoteric interpretations of the past as it relates to the present and future.
+
 **Occultists have used fiction to hide their truths for centuries.**
 
 In the Dark Ages, occultists were often burned at the stake as heretics. In the Renaissance, they were persecuted by the Inquisition. And in the modern era, they are often dismissed as charlatans or the mentally ill.
