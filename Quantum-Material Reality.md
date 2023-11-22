@@ -65,4 +65,6 @@ The Material Atomics Framework is a complex and challenging theory. However, it 
 # Conclusion
 I believe that the bridge between the occult and mainstream science is closer than many people think. There are already many people who are working on bridging this gap, and I believe that their work will continue to bear fruit in the years to come.
 
-Follow-Up Reading: [Understanding the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
+Follow-Up Reading: 
+* [Understanding the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
+* [Iterative Reality](https://github.com/Az-Net/Proposals/blob/main/Iterative-reality.md)
